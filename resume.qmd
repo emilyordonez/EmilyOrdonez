@@ -1,87 +1,96 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Emily Ordonez CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Emily Ordonez  
+Sociologist, Educator, Data Analyst and Sociology Theorist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="emilyordonez@byui.edu">emilyordonez@byui.edu</a>
 </div>
 
 
-## Currently
+## Currently  
 
-Standing on the shoulders of giants
+Exploring intersections of data science, social theory, and human development.  
 
-### Specialized in
+### Specialized in  
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Sociological theory, educational support, bilingual instruction, data analysis, and customer insights.  
 
+### Research Interests  
 
-### Research interests
+Family functioning, dating dysfunction in Latin America, emotional cognition, AI literacy in social science, curriculum development, and cross-cultural education.  
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Education  
 
+`Present`  
+__Brigham Young University – Idaho__  
+- BA in Sociology  
+- Minors: Data Science & Statistics, Marriage & Family Studies  
+- GPA: 3.60  
 
-## Education
+`2019`  
+__Benalcázar High School__  
+- GPA: 3.70  
 
-`1654-1660`
-__The King's School, Grantham.__
+## Experience  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2022 – Present`  
+__Online Teaching Assistant • BYU–Idaho__  
+- Supported multiple online classes of ~30 students each.  
+- Developed course content and moderated discussions.  
+- Provided timely and individualized student feedback.  
 
-- Sizar
+`Apr/2023 – Sep/2023`  
+__Product Manager • Cricket__  
+- Defined product vision and strategy aligned with market trends.  
+- Led market research and created user-centered prototypes.  
+- Facilitated cross-functional collaboration across teams.  
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Jul/2022 – Nov/2022`  
+__Sales Representative • Boost Mobile__  
+- Delivered exceptional customer service and technical education.  
+- Curated store layouts and promoted current sales effectively.  
+- Met and exceeded sales goals while tracking market trends.  
 
-- Fellow
+`Jan/2022 – Sep/2023`  
+__Factory Worker__  
+- Operated machinery and ensured product quality through inspections.  
+- Participated in packaging and material handling operations.  
 
+`Sep/2019 – Sep/2020`  
+__English Teacher (TESOL & TEFL Certified) • Computer World__  
+- Led English instruction for diverse language backgrounds (A1–B2).  
+- Provided TOEFL and MET test prep courses.  
+- Created personalized lessons and worked 1-on-1 with learners of all ages.
 
+## Skills  
 
-## Awards
+- **Technology:** Excel, Python, SQL, R (beginner), Data Visualization  
+- **Languages:** Spanish (native), English (fluent), French (basic)  
+- **Teaching:** TESOL/TEFL certified, curriculum design, cross-cultural instruction  
+- **Research:** Qualitative methods, grounded theory, coding analysis  
+- **Business Acumen:** Product research, customer insights, sales strategy  
 
-`2012`
-President, *Royal Society*, London, UK
+## Publications & Projects  
 
-Associate, *French Academy of Science*, Paris, France
+`2024 – Present`  
+**Senior Thesis (in progress)**  
+*“Updating Curricula: A Framework for Data and AI Literacy in Undergraduate Social Science”*  
+- Developing a flexible educational framework to prepare students for a data-driven future.  
 
+`2024`  
+**Qualitative Research**  
+*“Dating Dysfunction and Emotional Cognition in Latin America”*  
+- Conducted grounded theory analysis of over 5,000 social media videos to explore emotional underdevelopment and family outcomes.  
 
+## Awards & Certifications  
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- **TESOL & TEFL Certified Instructor**  
+- **BYU–Idaho Academic Scholarship Recipient**  
+- **DataCamp Certificates in Python and SQL (In Progress)**
 
 
 <!-- ### Footer
